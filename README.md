@@ -1,4 +1,4 @@
-# Playground Compose Multiplatform
+# Playground - Compose Multiplatform
 Playing around with Compose Multiplatform `2023-09-11`.
 
 Because I used the experimental WASM support for Compose, there's a few hacky bits copied from other examples to
